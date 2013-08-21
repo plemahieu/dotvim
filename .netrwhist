@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/auto/home/plemahieu/source/main/platform/src/base'
+let g:netrw_dirhist_2='/auto/home/plemahieu/source/main/platform/test'
+let g:netrw_dirhist_3='/auto/home/plemahieu/source/main/platform/test/comm'
+let g:netrw_dirhist_4='/auto/home/plemahieu/bugs/main/vfs/test/_x86_64-linux-leak-debug'
+let g:netrw_dirhist_5='/auto/home/plemahieu/source/main/.hg'

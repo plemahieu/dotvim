@@ -1,0 +1,17 @@
+
+Created repository:
+   cd .vim
+   git init
+   git add .
+   git commit -m "Iniitial commit"
+
+Publish to github:
+   creat "dotvim" repository at github
+   git remote add origin https://github.com/plemahieu/dotvim.git
+   git push -u origin master
+
+Add vundle plugin to manage all future plugins:
+   git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+   :BundleInstall - install plugins
+   :BundleUpdate - update plugins
+   :BundleClean - remove plugins after removing them from .vimrc
